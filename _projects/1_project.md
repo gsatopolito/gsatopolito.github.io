@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Gravitational waves
-description: Pulsar timing arrays are expected to soon detect nanohertz gravitational waves (GWs) and I'm interested in exploring new signatures that can be used to learn about the origin of such signal. In a <a href="https://arxiv.org/abs/2111.05867">recent publication</a>, we showed that the circular polarization of the GW background may be detectable and informative about the properties of the GW sources.
+title: Gravitational waves and supermassive black holes
+description: Pulsar timing arrays (PTAs) consist of a set of regularly monitored millisecond pulsars with extremely stable rotational periods. The arrival time of pulses can be altered by the passage of gravitational waves (GWs) between them and the Earth, thus serving as a galaxy-wide GW detector. First evidence for low-frequency (~nHz) gravitational waves has recently been reported across multiple PTA collaborations, opening a new observational window into the Universe; I am currently interested in understading what we are seeing through this new window.
+
+	The dominant sources of  nanohertz gravitational waves are expected to be mergers of the most massive black holes in the Universe. My research is shedding light on their properties and how the gravitational-wave based information fits in with our existing body of electromagnetic observations.
 img: 
 importance: 1
 category:

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Line-intensity mapping
-description: LIM is an observational technique that targets atomic or molecular spectral lines. I'm interested in its potential to survey both the large-scale matter distribution and the astrophysical conditions of the interstellar and intergalactic medium across vast volumes of the Universe. I have worked on a variety of projects exploring how it can be used to learn about <a href="https://arxiv.org/abs/2011.08193">inflation</a>, <a href="https://arxiv.org/abs/2005.08977">reionization</a>, and <a href="https://arxiv.org/abs/2203.11236">dark matter</a>, as well as developed a formalism to <a href="https://arxiv.org/abs/2202.02330">combine summary statistics</a> of LIM data.
+title: Dark matter
+description: Axions and axion-like particles are among the compelling dark-matter candidates. In a <a href="https://arxiv.org/abs/2203.11236">recent work</a>, we showed that a high-significance excess in the cosmic optical background measured by NASA’s New Horizons spacecraft can be explained by an axion-like particle in a region of parameter space that was previously unconstrained. Motivated by this result, we then studied a similar parameter space through the attenuation of γ-rays from blazars.
 img: 
 importance: 3
 category:
