@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Below are some of the main topics I have worked on so far.
+description:
 nav: true
 nav_order: 2
 display_categories:
@@ -20,7 +20,7 @@ horizontal: true
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-3">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
